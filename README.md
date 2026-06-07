@@ -9,6 +9,7 @@
 | [0485-max-consecutive-ones](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
