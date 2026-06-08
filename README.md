@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -32,4 +34,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
