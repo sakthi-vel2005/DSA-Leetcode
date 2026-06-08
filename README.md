@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -38,4 +39,9 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
