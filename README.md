@@ -22,6 +22,7 @@
 | [0001-two-sum](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
@@ -55,6 +56,7 @@
 | [0125-valid-palindrome](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
