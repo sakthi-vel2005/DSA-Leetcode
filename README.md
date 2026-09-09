@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -22,6 +23,7 @@
 | [0001-two-sum](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
@@ -49,6 +51,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -65,9 +68,14 @@
 | [0125-valid-palindrome](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
