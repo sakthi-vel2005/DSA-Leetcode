@@ -1,20 +1,16 @@
 class Solution {
     public char repeatedCharacter(String s) {
+        
+        HashSet set = new HashSet();
 
-        HashSet<Character> set = new HashSet<Character>();
-
-       
-        for(int i=0;i<s.length(); i++){
+        for(int i=0; i<s.length(); i++){
             char ch = s.charAt(i);
             if(set.contains(ch)){
-                
                 return ch;
-               
-            } else{
+            }else{
                 set.add(ch);
             }
         }
         return ' ';
     }
-
 }
