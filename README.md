@@ -17,6 +17,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1748-sum-of-unique-elements](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -29,6 +30,7 @@
 | [0771-jewels-and-stones](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
