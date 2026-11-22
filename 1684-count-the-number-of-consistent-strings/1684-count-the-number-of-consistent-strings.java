@@ -13,9 +13,14 @@ class Solution {
 
     public static boolean checkFound(String word, String key){
 
+      boolean[] arr = new boolean[26];
+
+      for(char ch : key.toCharArray()){
+        arr[ch-'a'] = true;
+      }
         for(int i=0; i<word.length(); i++){
             char ch = word.charAt(i);
-            if(!key.contains(String.valueOf(ch))){
+            if(!arr[ch-'a']){
                 return false;
             }
         }
