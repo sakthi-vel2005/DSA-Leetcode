@@ -1,20 +1,19 @@
 class Solution {
     public int maxProduct(int[] nums) {
         
-        int max = Integer.MIN_VALUE;
-       
+       int v = Integer.MIN_VALUE;
+       int vp = Integer.MIN_VALUE;
 
-        for(int i=1; i<nums.length; i++){
-            int sum=0;
-            for(int j=0; j<i; j++){
-                sum =  (nums[i]-1) * (nums[j]-1);
-            
-                if(sum >  max){
-                    max = sum;
-                }
-            }
+       for(int i=0; i<nums.length; i++){
+        if(nums[i] > v ){
+            vp= v;
+            v = nums[i];
         }
+        else if(nums[i] >= vp){
+            vp = nums[i];
+        }
+       }
 
-        return max;
+       return (vp-1)* (v-1);
     }
 }
