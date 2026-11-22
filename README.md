@@ -70,6 +70,7 @@
 | [0242-valid-anagram](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
+| [1768-merge-strings-alternately](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
@@ -81,6 +82,7 @@
 | [0344-reverse-string](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Counting
 |  |
 | ------- |
