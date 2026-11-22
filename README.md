@@ -33,6 +33,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
@@ -71,6 +72,7 @@
 | [0344-reverse-string](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
