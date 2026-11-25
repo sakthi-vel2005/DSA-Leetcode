@@ -45,6 +45,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -76,6 +77,7 @@
 | [0344-reverse-string](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0771-jewels-and-stones](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -93,6 +95,7 @@
 | [0344-reverse-string](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -116,5 +119,6 @@
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
