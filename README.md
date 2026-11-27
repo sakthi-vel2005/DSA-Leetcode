@@ -12,6 +12,7 @@
 | [0283-move-zeroes](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -67,6 +68,7 @@
 | [0217-contains-duplicate](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
@@ -96,6 +98,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/sakthi-vel2005/DSA-Leetcode/tree/master/2000-reverse-prefix-of-word) |
